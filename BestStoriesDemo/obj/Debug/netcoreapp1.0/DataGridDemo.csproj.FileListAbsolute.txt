@@ -1,0 +1,11 @@
+I:\Terst Area\job sample\DataGridDemo\DataGridDemo\bin\Debug\netcoreapp1.0\DataGridDemo.deps.json
+I:\Terst Area\job sample\DataGridDemo\DataGridDemo\bin\Debug\netcoreapp1.0\DataGridDemo.runtimeconfig.json
+I:\Terst Area\job sample\DataGridDemo\DataGridDemo\bin\Debug\netcoreapp1.0\DataGridDemo.runtimeconfig.dev.json
+I:\Terst Area\job sample\DataGridDemo\DataGridDemo\bin\Debug\netcoreapp1.0\DataGridDemo.dll
+I:\Terst Area\job sample\DataGridDemo\DataGridDemo\bin\Debug\netcoreapp1.0\DataGridDemo.pdb
+I:\Terst Area\job sample\DataGridDemo\DataGridDemo\obj\Debug\netcoreapp1.0\DataGridDemo.csproj.CoreCompileInputs.cache
+I:\Terst Area\job sample\DataGridDemo\DataGridDemo\obj\Debug\netcoreapp1.0\DataGridDemo.AssemblyInfoInputs.cache
+I:\Terst Area\job sample\DataGridDemo\DataGridDemo\obj\Debug\netcoreapp1.0\DataGridDemo.AssemblyInfo.cs
+I:\Terst Area\job sample\DataGridDemo\DataGridDemo\obj\Debug\netcoreapp1.0\DataGridDemo.dll
+I:\Terst Area\job sample\DataGridDemo\DataGridDemo\obj\Debug\netcoreapp1.0\DataGridDemo.pdb
+I:\Terst Area\job sample\DataGridDemo\DataGridDemo\obj\Debug\netcoreapp1.0\DataGridDemo.csprojResolveAssemblyReference.cache

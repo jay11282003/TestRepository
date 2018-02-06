@@ -1,0 +1,71 @@
+﻿@{
+  ViewBag.Title = "Best Stories";
+}
+
+
+
+<div class="container-fluid">
+  <table id="table"
+         data-unique-id="Id"
+         data-sort-name="Id"
+         data-sort-order="asc"
+         data-classes="table table-condensed table-hover table-striped"
+         data-toggle="table"
+         data-side-pagination="server"
+         data-url="Load"
+         data-query-params="extraServerParams"
+         data-pagination="true"
+         data-show-refresh="true"
+         data-search="true"
+         data-toolbar="#toolbar"
+         data-page-size="20"
+         data-page-list="[5,10,20,50,100,All]">
+    <thead>
+      <tr>
+        <th data-field="Id" data-sortable="true">Id</th>
+        <th data-field="Author" data-sortable="true">Author</th>
+        <th data-field="Title" data-sortable="true">Title</th>
+      </tr>
+    </thead>
+  </table>
+</div>
+
+@section scripts {
+  @await Html.PartialAsync("bootstraptable")
+
+  <script type="text/javascript">
+
+    function extraServerParams(params) {
+      params.ExtraParam = 2;
+      return params;
+    }
+
+    function highLightRow($tr) {
+      $tr.addClass('highlight').siblings().removeClass('highlight');
+    }
+
+    function getId($element) {
+      var result = $($element).closest('tr').data('uniqueid');
+      return result;
+    }
+
+    $(document).ready(function () {
+      var $table = $('#table');
+
+      $('#btninfo').click(function () {
+        $tr = $table.find('tr.highlight');
+        var id = getId($tr);
+
+        var msg = (id === undefined) ? 'No row selected' : 'Country code : ' + id;
+        alert(msg);
+      });
+
+      // register row-click event
+      $table.on('click-row.bs.table', function ($element, row, $tr) {
+        highLightRow($tr);
+      });
+
+    });
+
+  </script>
+}

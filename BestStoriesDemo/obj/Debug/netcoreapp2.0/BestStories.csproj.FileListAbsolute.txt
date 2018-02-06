@@ -1,0 +1,11 @@
+I:\Terst Area\job sample\BestStoriesSample\BestStoriesDemo\bin\Debug\netcoreapp2.0\BestStoriesDemo.deps.json
+I:\Terst Area\job sample\BestStoriesSample\BestStoriesDemo\bin\Debug\netcoreapp2.0\BestStoriesDemo.runtimeconfig.json
+I:\Terst Area\job sample\BestStoriesSample\BestStoriesDemo\bin\Debug\netcoreapp2.0\BestStoriesDemo.runtimeconfig.dev.json
+I:\Terst Area\job sample\BestStoriesSample\BestStoriesDemo\bin\Debug\netcoreapp2.0\BestStoriesDemo.dll
+I:\Terst Area\job sample\BestStoriesSample\BestStoriesDemo\bin\Debug\netcoreapp2.0\BestStoriesDemo.pdb
+I:\Terst Area\job sample\BestStoriesSample\BestStoriesDemo\obj\Debug\netcoreapp2.0\BestStories.csproj.CoreCompileInputs.cache
+I:\Terst Area\job sample\BestStoriesSample\BestStoriesDemo\obj\Debug\netcoreapp2.0\BestStories.AssemblyInfoInputs.cache
+I:\Terst Area\job sample\BestStoriesSample\BestStoriesDemo\obj\Debug\netcoreapp2.0\BestStories.AssemblyInfo.cs
+I:\Terst Area\job sample\BestStoriesSample\BestStoriesDemo\obj\Debug\netcoreapp2.0\BestStoriesDemo.dll
+I:\Terst Area\job sample\BestStoriesSample\BestStoriesDemo\obj\Debug\netcoreapp2.0\BestStoriesDemo.pdb
+I:\Terst Area\job sample\BestStoriesSample\BestStoriesDemo\obj\Debug\netcoreapp2.0\BestStories.csprojResolveAssemblyReference.cache
